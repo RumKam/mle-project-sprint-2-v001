@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-sprint-2-v001/model_improvement/mlruns/571964933113134641/2df3b61d6d964c1a9504c75499401c2d/artifacts
+end_time: 1730568229961
+entry_point_name: ''
+experiment_id: '571964933113134641'
+lifecycle_stage: active
+run_id: 2df3b61d6d964c1a9504c75499401c2d
+run_name: optuna_model
+run_uuid: 2df3b61d6d964c1a9504c75499401c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730568229946
+status: 3
+tags: []
+user_id: mle-user
