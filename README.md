@@ -11,7 +11,10 @@
 **Начало работы с проектом:**
 
 1. git clone *https://github.com/RumKam/mle-project-sprint-2-v001.git*
-2. pip install -r requirements.txt 
+2. pip install -r requirements.txt
+3. тетрадка с исследованием cd model_improvement/project_template_sprint_2.ipynb
+
+*https://github.com/RumKam/mle-project-sprint-2-v001/blob/main/model_improvement/project_template_sprint_2.ipynb*
 
 **Этап 1: Разворачивание MLflow и регистрация модели**
 
